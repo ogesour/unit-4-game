@@ -1,0 +1,22 @@
+#one:hover,
+#two:hover,
+#three:hover,
+#four:hover{
+background-color: #1898ce
+
+}
+.container{
+    background-color: white;
+}
+h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 5em;
+    color: purple;
+}
+.jumbotron{
+    background-color: #1898ce;
+}
+
+.lead{
+    color: white;
+}
